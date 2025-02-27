@@ -1,0 +1,21 @@
+{
+    "audience_creation": {
+      "Segment": "Segment allows defining audiences based on events and traits, syncing with multiple destinations.",
+      "Lytics": "Lytics uses machine learning to create predictive audiences, leveraging customer behavior insights.",
+      "mParticle": "mParticle provides real-time audience updates and integration with marketing platforms.",
+      "Zeotap": "Zeotap focuses on deterministic identity resolution to build high-quality audiences."
+    },
+    "event_streaming": {
+      "Segment": "Segment uses a centralized data pipeline to route data in real-time.",
+      "Lytics": "Lytics streams behavioral data for real-time activation.",
+      "mParticle": "mParticle supports real-time ingestion and enrichment of data before sending it to partners.",
+      "Zeotap": "Zeotap enables precise targeting with deterministic and probabilistic data matching."
+    },
+    "identity_resolution": {
+      "Segment": "Uses deterministic and probabilistic matching to unify customer profiles.",
+      "Lytics": "Combines historical and real-time data for robust identity resolution.",
+      "mParticle": "Provides IDSync for identity resolution across multiple data sources.",
+      "Zeotap": "Focuses on deterministic identity resolution with strict compliance standards."
+    }
+  }
+  
