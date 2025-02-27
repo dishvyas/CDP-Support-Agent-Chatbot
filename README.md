@@ -41,8 +41,8 @@ npm start
 ```
 
 ## Project Structure
-
-### CDPS-CHATBOT
+```php
+CDPS-CHATBOT
 │── backend/               # Backend server files
 │── public/                # Public assets
 │── scraping/              # Scraping scripts for documentation
@@ -50,6 +50,7 @@ npm start
 │── package.json           # Frontend dependencies
 │── README.md              # Project documentation
 └── .gitignore             # Ignored files
+```
 
 ### Notes
 Ensure the backend is running before launching the frontend.
